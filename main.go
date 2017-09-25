@@ -13,6 +13,7 @@ import (
 	"strings"
 
 	"github.com/RevREB/ProjectBrix/api"
+	"github.com/RevREB/ProjectBrix/plugins"
 )
 
 var (
