@@ -9,7 +9,7 @@ import (
 const (
 	PluginsDir    = "./plugins"
 	CmdSymbolName = "Commands"
-	DefaultPrompt = "gosh>"
+	DefaultPrompt = "BrixSH>"
 )
 
 func GetStdout(ctx context.Context) io.Writer {
